@@ -2,6 +2,8 @@
 
 # About :
 
+Career change process from mechanical to software.
+
 I am doing my becholer Bachelor of Computer Application.
 
 I am really passionate about Testing, Web Devolpment and Web3.

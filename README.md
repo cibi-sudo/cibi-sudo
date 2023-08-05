@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi there, Cibi
 
-<!--
-**cibi-sudo/cibi-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About :
 
-Here are some ideas to get you started:
+I am doing my becholer Bachelor of Computer Application.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am really passionate about Testing, Web Devolpment and Web3.
+
+Currently learning as a React & API testing.
+
+Worked as Mechanical Engineer having 4.5 years of experience.
+
+Skills: Mannual Testing | Selenium | Cucumber | Testng | Junit | Page Object Model | Core Java | Java Script | HTML | CSS--Tailwind CSS | Linux
+
+mailbox Reach me at: cibiccf437@gmail.com

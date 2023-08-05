@@ -12,6 +12,6 @@ Currently learning as a React & API testing.
 
 Worked as Mechanical Engineer having 4.5 years of experience.
 
-Skills: Mannual Testing | Selenium | Cucumber | Testng | Junit | Page Object Model | Core Java | Java Script | HTML | CSS--Tailwind CSS | Linux
+Skills: Mannual Testing | Selenium | Cucumber | Testng | Junit | Page Object Model | Core Java | Java Script | HTML | Tailwind CSS | Linux
 
 mailbox Reach me at: cibiccf437@gmail.com

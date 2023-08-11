@@ -15,5 +15,7 @@ Worked as Mechanical Engineer having 4.5 years of experience.
 Skills: Mannual Testing | Selenium | Cucumber | Testng | Junit | Page Object Model | Core Java | Java Script | HTML | Tailwind CSS | Linux
 
 Reach me at: 
+
 Email:- cibiccf437@gmail.com
+
 LinkedIn:- https://www.linkedin.com/in/cibi-gunaseelan-429188285/

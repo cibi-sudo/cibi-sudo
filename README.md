@@ -2,20 +2,20 @@
 
 # About :
 
-Career change process from mechanical to software.
+Transition from a mechanical to a software career.
 
-I am doing my becholer on Computer Application.
+I'm studying computer applications for my degree.
 
-I am really passionate about Testing, Web Devolpment and Web3.
+I have a great deal of passion for testing, web development, and web 3.
 
-Currently learning as a React & API testing.
+I'm currently learning React and API testing.
 
-Worked as Mechanical Engineer having 4.5 years of experience.
+Has 4.5 years of experience as a mechanical engineer.
 
 Skills: Mannual Testing | Selenium | Cucumber | Testng | Junit | Page Object Model | Core Java | Java Script | HTML | Tailwind CSS | Linux
 
-Reach me at: 
+Contact me at: 
 
-Email:- cibiccf437@gmail.com
+using the email cibiccf437@gmail.com
 
-LinkedIn:- https://www.linkedin.com/in/cibi-gunaseelan-429188285/
+Visit LinkedIn at: https://www.linkedin.com/in/cibi-gunaseelan-429188285

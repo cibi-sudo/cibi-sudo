@@ -6,7 +6,7 @@ Transition from a mechanical to a software career.
 
 I'm studying computer applications for my degree.
 
-I have a great deal of passion for testing, web development, and web 3.
+I have a great deal of passion for testing, web development and web 3.
 
 I'm currently learning React.
 

@@ -17,5 +17,3 @@ Skills: Mannual Testing | Selenium | Cucumber | Testng | Postman | REST Assured 
 Contact me at: 
 
 using the email cibiccf437@gmail.com
-
-Visit LinkedIn at: https://www.linkedin.com/in/cibi-gunaseelan-429188285

@@ -1,19 +1,7 @@
-# Hi there, Cibi
+Hi, I’m Cibi
 
-# About :
+Mechanical engineer turned software enthusiast. Passionate about testing, web development, and Web3. Building one project per week since October 8 to grow my portfolio.
 
-Transition from a mechanical to a software career.
+Skills: Manual & Automation Testing | React | Node.js | Next.js | TypeScript | Tailwind CSS
 
-I'm studying computer applications for my degree.
-
-I have a great deal of passion for testing, web development and web 3.
-
-I'm currently learning React.
-
-Has 4.5 years of experience as a mechanical engineer.
-
-Skills: Mannual Testing | Selenium | Cucumber | Testng | Postman | REST Assured | Page Object Model | Core Java | Java Script | HTML | Tailwind CSS | Linux
-
-Contact me at: 
-
-using the email cibiccf437@gmail.com
+📧 cibiccf437@gmail.com
